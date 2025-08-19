@@ -37,7 +37,9 @@ Below are example screenshots of the game in progress (to be added after running
 
   Step 3 - Third Move
 
-  Step 4 - Final state showing winning position
+  Step 4 - Fourth Move
+  
+  Step 5 - Final state showing winning position
 
 Research Context
 This project builds on my senior comprehensive paper, which develops and analyzes winning strategies for the Total Coloring Game across different graph structures (stars, cycles, paths). The program demonstrates these strategies in practice.
