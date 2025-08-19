@@ -30,17 +30,18 @@ Features
 Sample Gameplay
 Below are example screenshots of the game in progress (to be added after running the code):
   Step 0 - Initial uncolored graph
-
+    ![Step 0](./step0.png)
   Step 1 - First Move
-
+    ![Step 1](./step1.png)
   Step 2 - Second Move
-
+    ![Step 2](./step2.png)
   Step 3 - Third Move
-
+    ![Step 3](./step3.png)
   Step 4 - Fourth Move
-  
+    ![Step 4](./step4.png)
   Step 5 - Final state showing winning position
-
+    ![Step 5](./step5.png)
+    
 Research Context
 This project builds on my senior comprehensive paper, which develops and analyzes winning strategies for the Total Coloring Game across different graph structures (stars, cycles, paths). The program demonstrates these strategies in practice.
 
